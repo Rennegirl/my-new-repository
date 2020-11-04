@@ -1,0 +1,17 @@
+commit ebbdb06e232fbf3c49068f1f60ec5905280e18a4
+Author: Rennegirl <rennegirl@gmail.com>
+Date:   Wed Nov 4 14:01:31 2020 +1300
+
+    added gitignore
+
+commit 9957b755af3b01cd99b167db9e135eed07f37b15
+Author: Rennegirl <rennegirl@gmail.com>
+Date:   Wed Nov 4 13:55:02 2020 +1300
+
+    added 2 files
+
+commit 93179e4c8693c8d564672b2f3831a878ad5daacc
+Author: Rennegirl <rennegirl@gmail.com>
+Date:   Wed Nov 4 13:52:00 2020 +1300
+
+    readme.txt created
